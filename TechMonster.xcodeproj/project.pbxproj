@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		CBB369F7207CC0B100B55C53 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB369F6207CC0B100B55C53 /* AppDelegate.swift */; };
-		CBB369F9207CC0B100B55C53 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB369F8207CC0B100B55C53 /* ViewController.swift */; };
 		CBB369FC207CC0B100B55C53 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBB369FA207CC0B100B55C53 /* Main.storyboard */; };
 		CBB369FE207CC0B500B55C53 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBB369FD207CC0B500B55C53 /* Assets.xcassets */; };
 		CBB36A01207CC0B500B55C53 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CBB369FF207CC0B500B55C53 /* LaunchScreen.storyboard */; };
@@ -38,7 +37,6 @@
 /* Begin PBXFileReference section */
 		CBB369F3207CC0B100B55C53 /* TechMonster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TechMonster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBB369F6207CC0B100B55C53 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		CBB369F8207CC0B100B55C53 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		CBB369FB207CC0B100B55C53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CBB369FD207CC0B500B55C53 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CBB36A00207CC0B500B55C53 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -98,7 +96,6 @@
 			isa = PBXGroup;
 			children = (
 				CBB369F6207CC0B100B55C53 /* AppDelegate.swift */,
-				CBB369F8207CC0B100B55C53 /* ViewController.swift */,
 				CBB369FA207CC0B100B55C53 /* Main.storyboard */,
 				CBB369FD207CC0B500B55C53 /* Assets.xcassets */,
 				CBB369FF207CC0B500B55C53 /* LaunchScreen.storyboard */,
@@ -255,7 +252,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBB36A34207CC62600B55C53 /* BattleViewController.swift in Sources */,
-				CBB369F9207CC0B100B55C53 /* ViewController.swift in Sources */,
 				CBB36A27207CC2C700B55C53 /* TechDraUtil.swift in Sources */,
 				CBB369F7207CC0B100B55C53 /* AppDelegate.swift in Sources */,
 				CBB36A32207CC55100B55C53 /* LobbyViewController.swift in Sources */,
